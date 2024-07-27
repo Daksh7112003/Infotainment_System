@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/carimage">
+        <file>carimage.qrc</file>
+        <file>64400.jpg</file>
+    </qresource>
+</RCC>

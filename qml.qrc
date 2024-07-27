@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BottomBar/BottomBar.qml</file>
+        <file>RightScreen/RightScreen.qml</file>
+        <file>LeftScreen/LeftScreen.qml</file>
+        <file>carimagee.jpg</file>
+        <file>orangecar.jpg</file>
+        <file>electric-car.png</file>
+        <file>unlock.png</file>
+        <file>lock.png</file>
+        <file>RightScreen/NavigationSearchBox.qml</file>
+        <file>../../magnifying-glass.png</file>
+        <file>../../magnifying-glass (1).png</file>
+        <file>../../magnifying-glass (2).png</file>
+        <file>search.png</file>
+        <file>search (1).png</file>
+        <file>../../searchIcon.png</file>
+        <file>../../search.svg</file>
+        <file>BottomBar/HVACComponent.qml</file>
+        <file>speaker-filled-audio-tool.png</file>
+        <file>low-volume.png</file>
+        <file>BottomBar/VolumeControlComponent.qml</file>
+        <file>volume-up.png</file>
+        <file>volume-mute.png</file>
+        <file>volume-up-interface-symbol.png</file>
+        <file>low-volume (1).png</file>
+        <file>defrost.png</file>
+        <file>music.png</file>
+        <file>fan.png</file>
+        <file>phone.png</file>
+        <file>../../mobile.png</file>
+        <file>../../youtube.png</file>
+        <file>../../placeholder.png</file>
+        <file>../../phone-call.png</file>
+        <file>phone-cal.png</file>
+    </qresource>
+</RCC>
