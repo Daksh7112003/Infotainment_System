@@ -18,15 +18,11 @@ Rectangle{
     width:parent.width*1/3
     height:parent.height*1/12
 
-
-
 Image{
 
 height:25
 
 width:45
-
-
     id:searchIcon
 
     source:"/search.svg"
@@ -84,17 +80,12 @@ TextInput{
     anchors{
         top:parent.top
         bottom:parent.bottom
-
-
-
         right:parent.right
 
         left:searchIcon.right
         leftMargin: 25
 
         verticalCenter: parent.verticalCenter
-
-
     }
 
     font.pixelSize: 16
@@ -102,6 +93,4 @@ TextInput{
 
     clip:true
 }
-
-
 }
