@@ -9,15 +9,11 @@ Rectangle{
     anchors{
         left:lockIcon.left
         top:lockIcon.bottom
-
-
         topMargin: 40
-
     }
 
     width:parent.width*1/3
     height:parent.height*1/12
-
 Image{
 
 height:25
